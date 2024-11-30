@@ -1,3 +1,8 @@
+
+THIS IS TEST COMMIT 1
+
+THIS IS TEST COMMIT 2
+
 # Distributed Key-Value Store with Raft Consensus Algorithm
 
 The project aims to implement a reliable and consistent in-memory key-value store in Go using the Raft consensus algorithm. It partitions data into shards using the Murmur3 hashing algorithm and employs a leader-follower design for replication among three servers per data shard.
